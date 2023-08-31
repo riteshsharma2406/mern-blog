@@ -31,13 +31,13 @@ https://drive.google.com/file/d/1eKFIRzCvDJRG0lsgCVHCv7G3PIwVlp-p/view?usp=drive
 
 ## Tech Stack
 
-HTML5
-CSS3
-Javascript and ES+6
-ReactJs
-NodeJs
-ExpressJs
-MongoDB Atlas
+- HTML5
+- CSS3
+- Javascript and ES+6
+- ReactJs
+- NodeJs
+- ExpressJs
+- MongoDB Atlas
 
 
 ## Libraries
