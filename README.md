@@ -12,10 +12,40 @@ Video link to demo
 
 https://drive.google.com/file/d/1eKFIRzCvDJRG0lsgCVHCv7G3PIwVlp-p/view?usp=drive_link
 
-<h1 align="center" id="title">TechnoBlog</h1>
+## Features
 
-<p align="center"><img src="https://drive.google.com/file/d/1Kkf_1NbeKeFLHIdF46okm0D5zeJUK1uG/view?usp=sharing" alt="project-image"></p>
+- Authentication (Login/Signup)
+- Create a Post
+- Mobile Responsive
+- Author Credit
+- Date and Time of Post
 
-<h2>Project Screenshots:</h2>
+## To- Do
 
-<img src="https://drive.google.com/file/d/1Kkf_1NbeKeFLHIdF46okm0D5zeJUK1uG/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
+- Edit the Post
+- Google Authentication
+- Deployment of Page
+- Like the Post
+- Recommended Posts
+
+
+## Tech Stack
+
+HTML5
+CSS3
+Javascript and ES+6
+ReactJs
+NodeJs
+ExpressJs
+MongoDB Atlas
+
+
+## Libraries
+- express
+- mongoose (for managing mongoDB)
+- cors
+- nodemon
+- bcryptjs (for password hashing)
+- jsonwebtoken (for web tokens and sessions)
+
+
